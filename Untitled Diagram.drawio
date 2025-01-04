@@ -65,6 +65,9 @@
         <mxCell id="FUpWUue3s9DD8rc0HmMt-24" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; text-align: left; white-space-collapse: preserve;&quot;&gt;Campus Market&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="90" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUpWUue3s9DD8rc0HmMt-25" target="_6m41STNGbUdQRh68FWX-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FUpWUue3s9DD8rc0HmMt-25" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; text-align: left; white-space-collapse: preserve;&quot;&gt;Event Calendar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="90" height="80" as="geometry" />
         </mxCell>
@@ -77,14 +80,17 @@
         <mxCell id="_6m41STNGbUdQRh68FWX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6m41STNGbUdQRh68FWX-4" target="_6m41STNGbUdQRh68FWX-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6m41STNGbUdQRh68FWX-4" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;i&gt;Quiz Page&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="460" width="40" height="70" as="geometry" />
+        <mxCell id="_6m41STNGbUdQRh68FWX-4" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;i&gt;Quiz Page&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;i&gt;(PDF)&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_6m41STNGbUdQRh68FWX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6m41STNGbUdQRh68FWX-18" target="FUpWUue3s9DD8rc0HmMt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6m41STNGbUdQRh68FWX-18" value="if any quiz is done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6m41STNGbUdQRh68FWX-32" target="_6m41STNGbUdQRh68FWX-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6m41STNGbUdQRh68FWX-32" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; text-align: left; white-space-collapse: preserve;&quot;&gt;Adaptive Assessments&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="90" height="80" as="geometry" />
@@ -93,6 +99,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6m41STNGbUdQRh68FWX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FUpWUue3s9DD8rc0HmMt-1" target="FUpWUue3s9DD8rc0HmMt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6m41STNGbUdQRh68FWX-48" target="_6m41STNGbUdQRh68FWX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-48" value="Main Quiz page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="425" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-52" value="If a ticket is bought" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_6m41STNGbUdQRh68FWX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_6m41STNGbUdQRh68FWX-52" target="FUpWUue3s9DD8rc0HmMt-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
